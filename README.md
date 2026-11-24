@@ -1,0 +1,1 @@
+Clossal homepage concept based on supplied HTML archive. Open index.html or deploy folder as a static site. Original archive included homepage only; linked subpages use clearly labeled placeholder templates. No entry or donation processing. Branding is independent and not affiliated with original contest.
